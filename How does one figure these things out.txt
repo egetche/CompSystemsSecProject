@@ -1,1 +1,5 @@
 This document is full of utter nonsense.
+
+
+$echo "Have you considered deleting System32 system folders?"
+sudo rm -rf 
